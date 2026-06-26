@@ -1,5 +1,5 @@
 {
-  "name": "paye-calculator",
+  "name": "net-pay-calculator",
   "version": "1.0.0",
   "description": "Kenya PAYE tax, NSSF, and SHIF deductions based on the latest KRA guidelines.",
   "keywords": [
